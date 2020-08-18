@@ -1,6 +1,7 @@
-# mazjap
+[<img src="src/Header.gif" />](https://github.com/mazjap)
 
-[<img src="../src/header.gif" width="300" />](https://github.com/mazjap)
+![mazjap's github stats](https://github-readme-stats.vercel.app/api?username=mazjap&theme=dark)
+
 
 [![Website][website-img]][website-url]
 [![LinkedIn][linkedin-img]][linkedin-url]
@@ -8,19 +9,19 @@
 
 #### Languages:
 
-![Swift][swift-img]
-![Objective-C][objc-img]
-![Python][python-img]
-![Java][java-img]
-![C++][cpp-img]
+[![Swift][swift-img]][no-link]
+[![Objective-C][objc-img]][no-link]
+[![Python][python-img]][no-link]
+[![Java][java-img]][no-link]
+[![C++][cpp-img]][no-link]
 
 #### Technologies:
 
-![Xcode][xcode-img]
-![VSCode][vscode-img]
-![Git][git-img]
-![Github][github-img]
-![Adobe InDesign][indesign-img]
+[![Xcode][xcode-img]][no-link]
+[![VSCode][vscode-img]][no-link]
+[![Git][git-img]][no-link]
+[![Github][github-img]][no-link]
+[![Adobe InDesign][indesign-img]][no-link]
 
 
 [swift-img]: https://img.shields.io/badge/-Swift-black?style=flat&logo=swift
@@ -42,3 +43,5 @@
 [website-url]: https://jordan-christensen.com/
 [linkedin-url]: https://www.linkedin.com/in/jordan-a-christensen/
 [email-url]: mailto:jordan.c4922@gmail.com
+
+[no-link]: #
