@@ -1,4 +1,4 @@
-[<img src="src/Header.gif" />](https://github.com/mazjap)
+[<img src="https://github.com/mazjap/mazjap/blob/master/src/Header.gif" />](https://github.com/mazjap)
 
 ![mazjap's github stats](https://github-readme-stats.vercel.app/api?username=mazjap&theme=dark)
 
