@@ -1,10 +1,12 @@
 # mazjap
 
+[<img src="../src/header.gif" width="300" />](https://github.com/mazjap)
+
 [![Website][website-img]][website-url]
 [![LinkedIn][linkedin-img]][linkedin-url]
 [![Email][email-img]][email-url]
 
-#### Languages I've Used:
+#### Languages:
 
 ![Swift][swift-img]
 ![Objective-C][objc-img]
@@ -12,7 +14,7 @@
 ![Java][java-img]
 ![C++][cpp-img]
 
-#### Technologies I've Used:
+#### Technologies:
 
 ![Xcode][xcode-img]
 ![VSCode][vscode-img]
