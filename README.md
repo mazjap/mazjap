@@ -4,10 +4,10 @@
 
 
 Hi, my name is Jordan,
-- 🎓 Recent grad from Lambda School specifying in iOS Development
-- ♥️ Passionate about music, cyber security, quantum physics, fitness, travel
-- ✈️ Lived in Shanghai & Qingdao, China; Dallas, Texas; Salem, Utah
-- 📫 Ask me about my music tastes, iOS development, travel, or literally anything!
+- :pencil2: Recent grad from Lambda School specifying in iOS Development
+- :heart: Passionate about music, cyber security, quantum physics, fitness, travel
+- :airplane: Lived in Shanghai & Qingdao, China; Dallas, Texas; Salem, Utah
+- :mailbox: [Ask me](https://jordan-christensen.com/#contact) about my music tastes, iOS development, travel, or literally anything!
 
 [![LinkedIn][linkedin-img]][linkedin-url]
 [![Email][email-img]][email-url]
@@ -30,6 +30,7 @@ Hi, my name is Jordan,
 
 #### Learning:
 
+[![SwiftUI][swiftui-img]][no-link]
 [![ARM64][arm-img]][no-link]
 [![C++][cpp-img]][no-link]
 [![Machine Learning][ml-img]][no-link]
@@ -45,8 +46,9 @@ Hi, my name is Jordan,
 [vscode-img]: https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual%20studio%20code
 [indesign-img]: https://img.shields.io/badge/-InDesign-black?style=flat&logo=adobe%20indesign
 
-[cpp-img]: https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B
+[swiftui-img]: https://img.shields.io/badge/-SwiftUI-black?style=flat&logo=swift
 [arm-img]: https://img.shields.io/badge/arm-AARCH64-black?style=flat
+[cpp-img]: https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B
 [ml-img]: https://img.shields.io/badge/-Machine%20Learning-black?style=flat&logo=python
 
 [website-img]: https://img.shields.io/badge/-Jordan%20Christensen.com-black?style=for-the-badge&logo=google-chrome&logoColor=white
