@@ -27,6 +27,7 @@ Hi, my name is Jordan,
 [![Git][git-img]][no-link]
 [![Github][github-img]][no-link]
 [![Adobe InDesign][indesign-img]][no-link]
+[![Adobe Photoshop][photoshop-img]][no-link]
 
 #### Learning:
 
@@ -45,6 +46,7 @@ Hi, my name is Jordan,
 [github-img]: https://img.shields.io/badge/-Github-black?style=flat&logo=github
 [vscode-img]: https://img.shields.io/badge/-VSCode-black?style=flat&logo=visual%20studio%20code
 [indesign-img]: https://img.shields.io/badge/-InDesign-black?style=flat&logo=adobe%20indesign
+[photoshop-img]: https://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe%20photoshop
 
 [swiftui-img]: https://img.shields.io/badge/-SwiftUI-black?style=flat&logo=swift
 [arm-img]: https://img.shields.io/badge/arm-AARCH64-black?style=flat
