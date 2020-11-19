@@ -4,10 +4,10 @@
 
 
 Hi, my name is Jordan,
-- :pencil2: Recent grad from Lambda School specifying in iOS Development
-- :heart: Passionate about music, cyber security, quantum physics, fitness, travel
+- :mortar_board: Recent grad from Lambda School specifying in iOS Development
+- :heart: Passionate about music, cyber security, quantum physics, fitness, travel and open source.
 - :airplane: Lived in Shanghai & Qingdao, China; Dallas, Texas; Salem, Utah
-- :mailbox: [Ask me](https://jordan-christensen.com/#contact) about my music tastes, iOS development, travel, or literally anything!
+- :mailbox: [Ask me](https://jordan-christensen.com/#contact) about my music tastes, iOS development or travel
 
 [![LinkedIn][linkedin-img]][linkedin-url]
 [![Email][email-img]][email-url]
@@ -22,6 +22,7 @@ Hi, my name is Jordan,
 
 #### Technologies:
 
+[![SwiftUI][swiftui-img]][no-link]
 [![Xcode][xcode-img]][no-link]
 [![VSCode][vscode-img]][no-link]
 [![Git][git-img]][no-link]
@@ -31,7 +32,6 @@ Hi, my name is Jordan,
 
 #### Learning:
 
-[![SwiftUI][swiftui-img]][no-link]
 [![ARM64][arm-img]][no-link]
 [![C++][cpp-img]][no-link]
 [![Machine Learning][ml-img]][no-link]
