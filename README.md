@@ -3,11 +3,11 @@
 ![mazjap's github stats](https://github-readme-stats.vercel.app/api?username=mazjap&theme=dark)
 
 
-Hi, my name is Jordan,
-- :mortar_board: Recent grad from Lambda School specifying in iOS Development
-- :heart: Passionate about music, cyber security, quantum physics, fitness, travel and open source.
-- :airplane: Lived in Shanghai & Qingdao, China; Dallas, Texas; Salem, Utah
-- :mailbox: [Ask me](https://jordan-christensen.com/#contact) about my music tastes, iOS development or travel
+Hi, my name is Jordan. I am
+- :mortar_board: A current student at Mountainland Technical College studying Full-Stack Development
+- :heart: Passionate about music, cyber security, quantum physics, skating, travel, and open source
+- :airplane: Lived in Shanghai & Qingdao, China; Dallas, Texas; and Salem, Utah
+- :mailbox: [Ask me](https://jordan-christensen.com/#contact) about my music tastes, development, or travel
 
 [![LinkedIn][linkedin-img]][linkedin-url]
 [![Email][email-img]][email-url]
@@ -32,6 +32,12 @@ Hi, my name is Jordan,
 
 #### Learning:
 
+[![HTML][html-img]][no-link]
+[![CSS][css-img]][no-link]
+[![JS][js-img]][no-link]
+[![SASS][sass-img]][no-link]
+[![Angular][angular-img]][no-link]
+[![Node.js][node-img]][no-link]
 [![ARM64][arm-img]][no-link]
 [![C++][cpp-img]][no-link]
 [![Machine Learning][ml-img]][no-link]
@@ -41,6 +47,7 @@ Hi, my name is Jordan,
 [python-img]: https://img.shields.io/badge/-Python-black?style=flat&logo=python
 [java-img]: https://img.shields.io/badge/-Java-black?style=flat&logo=java
 
+[swiftui-img]: https://img.shields.io/badge/-SwiftUI-black?style=flat&logo=swift
 [xcode-img]: https://img.shields.io/badge/-Xcode-black?style=flat&logo=xcode
 [git-img]: https://img.shields.io/badge/-Git-black?style=flat&logo=git
 [github-img]: https://img.shields.io/badge/-Github-black?style=flat&logo=github
@@ -48,7 +55,13 @@ Hi, my name is Jordan,
 [indesign-img]: https://img.shields.io/badge/-InDesign-black?style=flat&logo=adobe%20indesign
 [photoshop-img]: https://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe%20photoshop
 
-[swiftui-img]: https://img.shields.io/badge/-SwiftUI-black?style=flat&logo=swift
+[html-img]: https://img.shields.io/badge/-HTML-black?style=flat&logo=html5
+[css-img]: https://img.shields.io/badge/-CSS-black?style=flat&logo=css3
+[js-img]: https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript
+[sass-img]: https://img.shields.io/badge/-SASS-black?style=flat&logo=sass
+[angular-img]: https://img.shields.io/badge/-Angular-black?style=flat&logo=angular
+[node-img]: https://img.shields.io/badge/-Node-black?style=flat&logo=node.js
+
 [arm-img]: https://img.shields.io/badge/arm-AARCH64-black?style=flat
 [cpp-img]: https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B
 [ml-img]: https://img.shields.io/badge/-Machine%20Learning-black?style=flat&logo=python
