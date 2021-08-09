@@ -5,6 +5,7 @@
 
 Hi, my name is Jordan. I am
 - :mortar_board: A current student at Mountainland Technical College studying Full-Stack Development
+- :hammer: Working as an iOS Developer at [Wander App Inc][wander-url]
 - :heart: Passionate about music, cyber security, quantum physics, skating, travel, and open source
 - :airplane: Lived in Shanghai & Qingdao, China; Dallas, Texas; and Salem, Utah
 - :mailbox: [Ask me](https://jordan-christensen.com/#contact) about my music tastes, development, or travel
@@ -68,6 +69,7 @@ Hi, my name is Jordan. I am
 [website-img]: https://img.shields.io/badge/-Jordan%20Christensen.com-black?style=for-the-badge&logo=google-chrome&logoColor=white
 [linkedin-img]: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
 [email-img]: https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white
+[wander-url]: https://www.wandermaps.com
 
 [website-url]: https://jordan-christensen.com/
 [linkedin-url]: https://www.linkedin.com/in/jordan-a-christensen/
