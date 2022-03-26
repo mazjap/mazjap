@@ -4,10 +4,12 @@
 
 
 Hi, my name is Jordan. I am
-- :mortar_board: A current student at Mountainland Technical College studying Full-Stack Development
-- :hammer: Working as an iOS Developer at [Wander App Inc][wander-url]
-- :heart: Passionate about music, cyber security, quantum physics, skating, travel, and open source
+- :hammer: An iOS Developer at [Wander App Inc][wander-url] ([@wander-dev][wander-github])
+- :heart: Passionate about music, cyber security, quantum physics, travel, and open source software
 - :airplane: Lived in Shanghai & Qingdao, China; Dallas, Texas; and Salem, Utah
+- :mortar_board: Graduate from 
+  - [Bloom Institute of Technology][bloom-url] ([@bloominstituteoftechnology][bloom-github]) in iOS Development
+  - Mountainland Technical College's [Web Programming & Development][mtech-url] course
 - :mailbox: [Ask me](https://jordan-christensen.com/#contact) about my music tastes, development, or travel
 
 [![LinkedIn][linkedin-img]][linkedin-url]
@@ -23,6 +25,7 @@ Hi, my name is Jordan. I am
 [![SASS][sass-img]][no-link]
 [![Python][python-img]][no-link]
 [![Java][java-img]][no-link]
+[![JS][js-img]][no-link]
 
 #### Technologies:
 
@@ -33,12 +36,11 @@ Hi, my name is Jordan. I am
 [![Github][github-img]][no-link]
 [![Adobe InDesign][indesign-img]][no-link]
 [![Adobe Photoshop][photoshop-img]][no-link]
+[![React][react-img]][no-link]
+[![Node.js][node-img]][no-link]
 
 #### Learning:
 
-[![JS][js-img]][no-link]
-[![Angular][angular-img]][no-link]
-[![Node.js][node-img]][no-link]
 [![ARM64][arm-img]][no-link]
 [![C++][cpp-img]][no-link]
 [![Machine Learning][ml-img]][no-link]
@@ -60,7 +62,7 @@ Hi, my name is Jordan. I am
 [photoshop-img]: https://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe%20photoshop
 
 [js-img]: https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript
-[angular-img]: https://img.shields.io/badge/-Angular-black?style=flat&logo=angular
+[react-img]: https://img.shields.io/badge/-React-black?style=flat&logo=react
 [node-img]: https://img.shields.io/badge/-Node-black?style=flat&logo=node.js
 [arm-img]: https://img.shields.io/badge/arm-AARCH64-black?style=flat
 [cpp-img]: https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B
@@ -70,6 +72,10 @@ Hi, my name is Jordan. I am
 [linkedin-img]: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
 [email-img]: https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white
 [wander-url]: https://www.wandermaps.com
+[wander-github]: https://github.com/wander-dev
+[bloom-url]: https://www.bloomtech.com
+[bloom-github]: https://github.com/bloominstituteoftechnology
+[mtech-url]: https://mtec.edu/programs/web-programming-development/
 
 [website-url]: https://jordan-christensen.com/
 [linkedin-url]: https://www.linkedin.com/in/jordan-a-christensen/
