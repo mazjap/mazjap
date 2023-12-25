@@ -4,7 +4,6 @@
 
 
 Hi, my name is Jordan. I am
-- :hammer: An iOS Developer at [Wander App Inc][wander-url] ([@wander-dev][wander-github])
 - :heart: Passionate about music, cyber security, quantum physics, travel, and open source software
 - :airplane: Lived in Shanghai & Qingdao, China; Dallas, Texas; and Salem, Utah
 - :mortar_board: Graduate from 
