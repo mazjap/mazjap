@@ -1,4 +1,4 @@
-[<img src="./src/Header.gif" />][github-profile-url]
+<!-- ![[Header][github-profile-url]](./src/Header.gif) -->
 
 👋 Hi there, I'm Jordan!
 
