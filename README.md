@@ -32,7 +32,7 @@ I'm building [SwiftNES][swiftnes-url], a Nintendo Entertainment System emulator 
 
 [SpiderSolitaire][spider-solitaire-url]: Cross-platform Spider Solitaire game with animations and multi/single suit game modes
 
-[MakeAMap][make-a-map-url]: iOS app for outdoor enthusiasts to track paths and mark points of interest
+[TrekPoint][trek-point-url]: iOS app for outdoor enthusiasts to track paths and mark points of interest
 
 [NeoMusic][neomusic-url]: Neumorphic-styled music player
 
@@ -94,5 +94,5 @@ I'm open to collaboration and currently seeking new opportunities where I can co
 [swiftnes-url]: https://github.com/mazjap/swiftnes
 [colorpicker-url]: https://github.com/mazjap/ColorPicker
 [spider-solitaire-url]: https://github.com/mazjap/SpiderSolitaire
-[make-a-map-url]: https://github.com/mazjap/MakeAMap
+[trek-point-url]: https://github.com/mazjap/TrekPoint
 [neomusic-url]: https://github.com/mazjap/NeoMusic-SwiftUI
