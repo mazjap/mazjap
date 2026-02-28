@@ -56,8 +56,6 @@ I'm open to collaboration and currently seeking new opportunities where I can co
 [![Email][email-img]][email-url]
 [![Website][website-img]][website-url]
 
-![mazjap's github stats][github-stats-url]
-
 <!-- Language Images -->
 [swift-img]: https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white
 [objc-img]: https://img.shields.io/badge/Objective--C-black?style=flat-square&logo=apple&logoColor=white
@@ -87,10 +85,7 @@ I'm open to collaboration and currently seeking new opportunities where I can co
 [website-url]: https://jordan-christensen.com/
 [linkedin-url]: https://www.linkedin.com/in/jordan-a-christensen/
 [email-url]: mailto:jordan.c4922@gmail.com
-
 [github-profile-url]: https://github.com/mazjap
-[github-stats-url]: https://github-readme-stats.vercel.app/api?username=mazjap&theme=dark
-
 [swiftnes-url]: https://github.com/mazjap/swiftnes
 [colorpicker-url]: https://github.com/mazjap/ColorPicker
 [spider-solitaire-url]: https://github.com/mazjap/SpiderSolitaire
