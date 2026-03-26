@@ -1,14 +1,12 @@
 <!-- ![[Header][github-profile-url]](./src/Header.gif) -->
 
-👋 Hi there, I'm Jordan!
-
 I'm an iOS Developer with 3 years of professional experience, passionate about crafting elegant solutions and exploring low-level systems.
 
-### 💻 Tech Stack
+### Tech Stack
 
 ![Swift][swift-img]
 ![SwiftUI][swiftui-img]
-![UIKit][uikit-img]
+![UIKit+AppKit][uikit-img]
 ![Objective-C][objc-img]
 ![Xcode][xcode-img]
 
@@ -22,39 +20,34 @@ I'm an iOS Developer with 3 years of professional experience, passionate about c
 ![Unity][unity-img]
 ![C#][c-sharp-img]
 
-### 🔭 Current Projects
+### Current Projects
 
 I'm building [SwiftNES][swiftnes-url], a Nintendo Entertainment System emulator written entirely in Swift. The 6502 CPU emulation is complete, and I'm currently implementing the PPU (Picture Processing Unit). This is the first step in my journey to create native Apple platform emulators for classic gaming systems.
 
-### 🚀 Featured Projects
-
-[ColorPicker][colorpicker-url]: macOS utility that captures screen colors and copies them to clipboard in various formats
-
-[SpiderSolitaire][spider-solitaire-url]: Cross-platform Spider Solitaire game with animations and multi/single suit game modes
+### Featured Projects
 
 [TrekPoint][trek-point-url]: iOS app for outdoor enthusiasts to track paths and mark points of interest
 
-[NeoMusic][neomusic-url]: Neumorphic-styled music player
+[VMManager][vmmanager-url]: A macOS virtual machine manager built with SwiftUI and Apple's Virtualization framework
+
+[SpiderSolitaire][spider-solitaire-url]: Cross-platform Spider Solitaire game with animations and multi/single suit game modes
+
+[FlaskMaster][flaskmaster-url]: Color sorting game made in SwiftUI, available on the appstore 
 
 ### 🗺️ Specializations
 
-**iOS & macOS Development**: Proficient in both SwiftUI and UIKit
+**iOS & macOS Development**: Proficient in both SwiftUI and UIKit/AppKit
 
 **Mapping Technologies**: Extensive experience with Mapbox SDK
 
 **Low-Level Systems**: Understanding of computer architecture and emulation
 
-### 🌱 Learning Journey
+### Learning Journey
 
 Currently expanding my knowledge through computer science education at WGU while building projects that challenge my understanding of both high-level app development and low-level system architecture.
 
-### 🤝 Let's Connect
 
-I'm open to collaboration and currently seeking new opportunities where I can contribute to a team and continue growing as a developer.
-
-[![LinkedIn][linkedin-img]][linkedin-url]
-[![Email][email-img]][email-url]
-[![Website][website-img]][website-url]
+[![Portfolio][website-img]][website-url]
 
 <!-- Language Images -->
 [swift-img]: https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white
@@ -67,7 +60,7 @@ I'm open to collaboration and currently seeking new opportunities where I can co
 
 <!-- Framework Images -->
 [swiftui-img]: https://img.shields.io/badge/-SwiftUI-2396F3?style=flat-square&logo=swift&logoColor=white
-[uikit-img]: https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=apple&logoColor=white
+[uikit-img]: https://img.shields.io/badge/-UIKit+AppKit-2396F3?style=flat-square&logo=apple&logoColor=white
 [react-img]: https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
 [node-img]: https://img.shields.io/badge/-Node-black?style=flat&logo=node.js
 
@@ -78,8 +71,6 @@ I'm open to collaboration and currently seeking new opportunities where I can co
 
 <!-- Social Images -->
 [website-img]: https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=safari&logoColor=white
-[email-img]: https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white
-[linkedin-img]: https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgUGl4ZWxtYXRvciBQcm8gMy42LjE1IC0tPgo8c3ZnIHdpZHRoPSI0MSIgaGVpZ2h0PSI0MSIgdmlld0JveD0iMCAwIDQxIDQxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPGcgaWQ9IkxheWVyLTEiPgogICAgICAgIDxwYXRoIGlkPSJQYXRoIiBmaWxsPSIjMDA3OGFiIiBzdHJva2U9Im5vbmUiIGQ9Ik0gMzcuODc3MzA0IDAuMTY2OTkyIEwgMy43ODI3IDAuMTY2OTkyIEMgMi4xNTE5NzggMC4xNjY5OTIgMC44MzAwMDIgMS40ODg5NTMgMC44MzAwMDIgMy4xMTk2OSBMIDAuODMwMDAyIDM3LjIxMzE5NiBDIDAuODMwMDAyIDM4Ljg0MzkzMyAyLjE1MTk3OCA0MC4xNjU4OTQgMy43ODI3IDQwLjE2NTg5NCBMIDM3Ljg3NzMwNCA0MC4xNjU4OTQgQyAzOS41MDgwMjYgNDAuMTY1ODk0IDQwLjgzMDAwMiAzOC44NDM5MzMgNDAuODMwMDAyIDM3LjIxMzE5NiBMIDQwLjgzMDAwMiAzLjExOTY5IEMgNDAuODMwMDAyIDEuNDg4OTUzIDM5LjUwODAyNiAwLjE2Njk5MiAzNy44NzczMDQgMC4xNjY5OTIgWiBNIDEyLjc1MTg3NyAzNC4yNDI2NzYgTCA2LjczODU4NiAzNC4yNDI2NzYgTCA2LjczODU4NiAxNS4xMzkzNDMgTCAxMi43NTE4NzcgMTUuMTM5MzQzIEwgMTIuNzUxODc3IDM0LjI0MjY3NiBaIE0gOS43NDUyMjQgMTIuNDkyMzcxIEMgNy44MzA0NzUgMTIuNDkyMzcxIDYuMjc4MjU5IDExLjAzNTAzNCA2LjI3ODI1OSA5LjA0MDcxIEMgNi4yNzgyNTkgNy4wNDYzODcgNy44MzA0NzUgNS41ODc0NjMgOS43NDUyMjQgNS41ODc0NjMgQyAxMS42NTk5ODggNS41ODc0NjMgMTMuMjEyMjA0IDcuMDQ2Mzg3IDEzLjIxMjIwNCA5LjA0MDcxIEMgMTMuMjEyMjA0IDExLjAzNTAzNCAxMS42NTk5ODggMTIuNDkyMzcxIDkuNzQ1MjI0IDEyLjQ5MjM3MSBaIE0gMzQuOTIxNDE3IDM0LjI1NzMyNCBMIDI4LjkwODEyNyAzNC4yNTczMjQgTCAyOC45MDgxMjcgMjMuODIzMzY0IEMgMjguOTA4MTI3IDIwLjc0NDg3MyAyNy41OTkzNjUgMTkuNzk1NTMyIDI1LjkxMTQ1MyAxOS43OTU1MzIgQyAyNC4xMjcyMjggMTkuNzk1NTMyIDIyLjM3NzY3IDIxLjEzODQyOCAyMi4zNzc2NyAyMy45MDAwODUgTCAyMi4zNzc2NyAzNC4yNTczMjQgTCAxNi4zNjQzOCAzNC4yNTczMjQgTCAxNi4zNjQzOCAxNS4xNTM5OTIgTCAyMi4xNDc1MDcgMTUuMTUzOTkyIEwgMjIuMTQ3NTA3IDE3LjgwMDY1OSBMIDIyLjIyNDEzNiAxNy44MDA2NTkgQyAyMi44MDYgMTYuNjI0NjM0IDI0LjgzNzE4OSAxNC42MTY4ODIgMjcuOTM5ODY1IDE0LjYxNjg4MiBDIDMxLjI5NTM0OSAxNC42MTY4ODIgMzQuOTIxNDE3IDE2LjYwNzMgMzQuOTIxNDE3IDIyLjQ0MjMyMiBMIDM0LjkyMTQxNyAzNC4yNTczMjQgWiIvPgogICAgPC9nPgo8L3N2Zz4K
 
 <!-- URLs -->
 [website-url]: https://jordan-christensen.com/
@@ -87,7 +78,7 @@ I'm open to collaboration and currently seeking new opportunities where I can co
 [email-url]: mailto:jordan.c4922@gmail.com
 [github-profile-url]: https://github.com/mazjap
 [swiftnes-url]: https://github.com/mazjap/swiftnes
-[colorpicker-url]: https://github.com/mazjap/ColorPicker
 [spider-solitaire-url]: https://github.com/mazjap/SpiderSolitaire
 [trek-point-url]: https://github.com/mazjap/TrekPoint
-[neomusic-url]: https://github.com/mazjap/NeoMusic-SwiftUI
+[vmmanager-url]: https://github.com/mazjap/VMManager
+[flaskmaster-url]: https://github.com/mazjap/FlaskGame
