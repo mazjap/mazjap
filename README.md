@@ -22,7 +22,7 @@ I'm an iOS Developer with 3 years of professional experience, passionate about c
 
 ### Current Projects
 
-I'm building [SwiftNES][swiftnes-url], a Nintendo Entertainment System emulator written entirely in Swift. The 6502 CPU emulation is complete, and I'm currently implementing the PPU (Picture Processing Unit). This is the first step in my journey to create native Apple platform emulators for classic gaming systems.
+I'm building [SwiftNES][swiftnes-url], a Nintendo Entertainment System emulator written entirely in Swift. The 6502 CPU, PPU, and IO emulation are all complete, and I'm currently implementing the APU (Audio Processing Unit). This is the first step in my journey to create native Apple platform emulators for classic gaming systems.
 
 ### Featured Projects
 
