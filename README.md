@@ -20,7 +20,9 @@ iOS and macOS developer with three years of professional experience. Right now I
 ## Tech
 
 **Daily drivers:** Swift, SwiftUI, UIKit, AppKit, Objective-C, Xcode
+
 **Also use:** TypeScript, React, Node, Java, C#, Unity
+
 **Tinkering:** Raspberry Pi [homelab](https://github.com/mazjap/homelab), QMK firmware, 3D printing
 
 ## Always learning
